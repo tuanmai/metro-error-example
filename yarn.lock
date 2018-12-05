@@ -4782,6 +4782,11 @@ realpath-native@^1.0.0:
   dependencies:
     util.promisify "^1.0.0"
 
+redux-api-call-adapter-dedupe@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/redux-api-call-adapter-dedupe/-/redux-api-call-adapter-dedupe-1.0.0.tgz#e9f0cf304969d7ba22ab56b32872a4c9e04b5057"
+  integrity sha512-ewLEW5XUa06DefjqglV0Bvgnhfyz5ngvkEqgnwjVNz/94epJoO6Cp+LY3kC2f3NGrkbeW0ZqoXAoCZ4w6e41UQ==
+
 regenerate-unicode-properties@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/regenerate-unicode-properties/-/regenerate-unicode-properties-7.0.0.tgz#107405afcc4a190ec5ed450ecaa00ed0cafa7a4c"
